@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metada:
-  name: test-config
-data:
-  message: "This will eventaully be deleted to test prunning"
